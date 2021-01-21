@@ -1,0 +1,138 @@
+[
+  {
+    "theme": "hus",
+    "en": [
+   		"stol", "matta", "lampa", "klocka", "säng", "kudde", "soffa", "TV", "radio", "gaffel", "sked", "kniv", "bokhylla"
+    ],
+    "ett": [
+    	"skåp", "bord", "soffbord", "tak", "golv", "diskställ", "rum", "sovrum", "badkar"
+    ]
+  },
+  {
+    "theme": "yrke",
+    "en": [
+      	"lärare", "skådespelare", "dansare", "militär", "säljare", "busschaufför", "sjuksköterska", "läkare", "pilot"
+    ],
+    "ett": [
+      	"affärsbiträde", "cykelbud", "fartygsbefäl"
+    ]
+  },
+  {
+    "theme": "djur",
+    "en": [
+      	"hund", "katt", "häst", "björn", "fågel", "fjäril", "anka", "kamel", "kameleont", "uggla", "fisk", "älg"
+    ],
+    "ett": [
+      	"lejon", "bi", "får", "lamm", "gorilla", "getingstick"
+    ]
+  },
+  {
+    "theme": "sport",
+    "en": [
+      	"boll", "fotbollssko", "volleybollmatch", "simbassäng", "pilbåge", "skida", "skridsko", "domare", "löpare"
+    ],
+    "ett": [
+      	"mål", "svärd", "volleybollnät", "rally", "cykellopp", "spjut", "tennisracket", "schackbräde", "biljardbord"
+    ]
+  },
+  {
+    "theme": "kropp",
+    "en": [
+      	"arm", "hand", "tunga", "fot", "tå", "nagel", "näsa", "mun", "tand", "hjärna"
+    ],
+    "ett": [
+    	"ben", "finger", "öga", "hjärta", "skägg", "hår", "knä", "lår", "ögonbryn"
+    ]
+  },
+  {
+    "theme": "skolan",
+    "en": [
+      	"bok", "penna", "skolväska", "skolgård", "linjal", "lärare", "elev", "fråga", "rast", "boksammanfattning", "rektor"
+    ],
+    "ett": [
+      	"klassrum", "suddgummi", "betyg", "svar", "experiment", "bokskåp", "ämne", "bibliotek"
+    ]
+  },
+  {
+    "theme": "frukt",
+    "en": [
+      	"banan", "vindruva", "persika", "mandarin", "nektarin", "jordgubbe", "kokosnöt", "avokado", "ananas", "mango", "papaya", "kiwi"
+    ],
+    "ett": [
+      	"päron", "plommon", "äpple", "körsbär", "björnbär", "blåbär", "krusbär"
+    ]
+  },
+  {
+    "theme": "kläder",
+    "en": [
+      	"klänning", "rock", "hatt", "kjol", "mössa", "handske", "sandal", "väst", "skjorta", "jacka", "kalsong"
+    ],
+    "ett": [
+      	"skärp", "par skor", "par stövlar", "förkläde"
+    ]
+  },
+  {
+    "theme": "fordon",
+    "en": [
+      	"bil", "husbil", "buss", "lastbil", "sopbil", "motorcykel", "tunnelbana", "båt", "helikopter", "truck", "traktor", "brandbil"
+    ],
+    "ett": [
+      	"tåg", "kryssningsfartyg"
+    ]
+  },
+  {
+    "theme": "musikinstrument",
+    "en": [
+      	"trumpet", "banjo", "gitarr", "fiol", "trumma", "flöjt", "harpa", "orgel", "saxofon", "xylofon", "triangel", "tamburin"
+    ],
+    "ett": [
+      	"dragspel", "piano"
+    ]
+  },
+  {
+    "theme": "familj",
+    "en": [
+      	"mamma", "pappa", "kvinna", "man", "flicka", "pojke", "morfar", "farfar", "morbror", "bror", "syster", "fru", "kusin", "svärmor"
+    ],
+    "ett": [
+      	"barn", "foster", "barnbarn", "syskon", "syskonbarn", "brorsbarn"      
+    ]
+    },
+    {
+    "theme": "grönsaker",
+    "en": [
+    	"morot", "potatis", "lök", "gurka", "paprika", "tomat", "pumpa", "sparris", "aubergine", "rödbeta", "ärta", "purjolök"
+    ],
+    "ett": [
+    	"kålhuvud"
+    ]
+    },
+    {
+    "theme": "mat och dryck",
+    "en": [
+      	"pasta", "kyckling", "köttbulle", "ost", "biff", "soppa", "paj", "sallad", "köttfärs", "korv", "skinka", "hummer", "smörgås", "juice"    ],
+    "ett": [
+      	"ris", "bröd", "kött", "isterband", "vin", "öl", "vatten"
+    ]
+    },
+    {
+    "theme": "verktyg",
+    "en": [
+      	"skiftnyckel", "hammare", "skruvmejsel", "tång", "polygrip", "pensel", "stege", "spik", "kofot", "såg", "spade"
+    ],
+    "ett": [ "skruvstäd",
+		"vattenpass", "stämjärn", "borr"      
+    ]
+    },
+    {
+    "theme": "på stan",
+    "en": [
+      	"gata", "motorväg", "affär", "bro", "busshållplats", "park", "parkering", "skola", "kommun", "flygplats", "tågstation",
+	"restaurang", "kyrka", "teater", "lägenhet" 
+	],
+    "ett": [
+      	"hus", "torg", "naturreservat", "dagis", "systembolag", "företag", "stadium"
+    ]
+  }
+
+]
